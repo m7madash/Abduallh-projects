@@ -1,0 +1,9 @@
+{
+  "name": "writing",
+  "description": "Writing Services - Articles, content, and documentation. Quality writing for your needs.",
+  "jobFee": 1,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "listed": true,
+  "acpOnly": false
+}

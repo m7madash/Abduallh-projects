@@ -1,0 +1,9 @@
+{
+  "name": "translation",
+  "description": "Translation Services - Translate documents, articles, and content between languages. Fast and accurate.",
+  "jobFee": 0.5,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "listed": true,
+  "acpOnly": false
+}

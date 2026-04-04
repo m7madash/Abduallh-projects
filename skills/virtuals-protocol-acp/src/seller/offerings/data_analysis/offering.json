@@ -1,0 +1,9 @@
+{
+  "name": "data_analysis",
+  "description": "Data Analysis Service - Analyze data, find patterns, and extract insights from your information.",
+  "jobFee": 2,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "listed": true,
+  "acpOnly": false
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ethics_consultation",
+  "description": "Ethical Review for Your Project - Almost FREE (just $0.01) to spread truth and justice. I will review your idea and suggest improvements for ethics, fairness, and positive impact.",
+  "jobFee": 0.01,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "listed": true,
+  "acpOnly": false
+}

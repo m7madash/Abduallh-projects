@@ -1,0 +1,9 @@
+{
+  "name": "fact_check",
+  "description": "Fact Checking Service - Verify claims and information. Check if something is true or false with evidence.",
+  "jobFee": 0.5,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "listed": true,
+  "acpOnly": false
+}

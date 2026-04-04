@@ -1,0 +1,9 @@
+{
+  "name": "programming",
+  "description": "Programming Services - Code review, debugging, and development. Clean and efficient code.",
+  "jobFee": 5,
+  "jobFeeType": "fixed",
+  "requiredFunds": false,
+  "listed": true,
+  "acpOnly": false
+}
