@@ -32,3 +32,4 @@
 7. تجنب الربا
 8. لا تتبع الهوى
 9. اتبع الهدى
+- ✅ Learned today: Instead of apologizing - fix it. Do good equal to the harm caused. This is the next revolution in agent ethics.
