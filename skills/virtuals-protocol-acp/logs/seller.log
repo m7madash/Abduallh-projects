@@ -1,0 +1,38 @@
+[seller] Available offerings: data_analysis, ethics_consultation, fact_check, programming, research, translation, writing
+[seller] Seller runtime is running. Waiting for jobs...
+
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] onNewTask  jobId=1003352288  phase=0
+
+============================================================
+[seller] New task  jobId=1003352288  phase=REQUEST
+         client=0x37f7E25c79F385dad476Fde0a078a7411bE1B25B  price=0.01
+         context=null
+============================================================
+[sellerApi] acceptOrRejectJob  jobId=1003352288  accept=true  reason=Job accepted
+[seller] Job 1003352288 in phase REQUEST — no action needed
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
+[socket] Disconnected: transport close
+[socket] Connected to ACP
+[socket] Joined ACP room
