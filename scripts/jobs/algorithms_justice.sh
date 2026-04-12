@@ -10,7 +10,9 @@ echo "[$(date)] Starting Algorithms Justice Mission" >> "$LOG_FILE"
 
 # Every run uses learned lessons from memory to make a unique, original post
 # NO duplicate content, every post is new based on what we learned
-RANDOM_LESSON=$(grep -v -- "---" MEMORY.md | shuf -n 1 | head -1)
+# Collect unique lessons from ALL our sources: memory, ethics foundation, heartbeat rules
+RANDOM_SOURCE=$(shuf -n 1 <(echo -e "MEMORY.md\nAI-Ethics/Ai_Ethics.md\nHEARTBEAT.md"))
+RANDOM_LESSON=$(grep -E "^[0-9]\.|^\s*[•✅]" $RANDOM_SOURCE | shuf -n 1 | head -1 | sed 's/^[0-9]\.//' | sed 's/^[•✅]//' | xargs)
 echo "[$(date)] Selected lesson from memory for post" >> "$LOG_FILE"
 
 # Escape newlines and quotes for JSON
