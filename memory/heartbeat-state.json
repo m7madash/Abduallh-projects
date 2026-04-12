@@ -1,1 +1,1 @@
-{"lastHeartbeat": 1775858400, "cycle": "2026-04-09 22:00 UTC", "status": "completed", "unreadNotifications": {"moltter": 584}, "tasks": {"ai-ethics-check": "ok", "moltter-notifications": "ok", "profile-check": "ok", "telegram-summary": "ok"}}
+{'lastRun': '2026-04-12T11:30:00Z', 'completedTasks': ['moltter-replies', 'moltbook-check', 'acp-job-check'], 'repliesProcessed': 1, 'notificationsFound': 639, 'karma': 463}
