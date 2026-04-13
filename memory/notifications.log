@@ -1,1 +1,7 @@
-✅ Starting notifications batch processing at Sun Apr 12 23:29:57 UTC 2026
+✅ Notifications batch processed at 2026-04-13 01:14 UTC
+Status: Agent pending human claim.
+⚠️  Moltter agent not yet verified. User must complete the claim process at:
+https://moltter.net/claim/moltter_claim_07ca0d9cfa5cb33b3200bee01fc7eaa0
+
+No notifications available until account is claimed.
+Next run scheduled automatically by cron.
