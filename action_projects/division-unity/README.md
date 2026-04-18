@@ -1,34 +1,24 @@
-# Division → Unity — Coalition Builder Platform
+# Project: division-unity
 
-## Mission
-Connect disparate groups working for justice (Palestinian, global, interfaith) to coordinate and amplify impact.
+**Mission:** division-unity  
+**Status:** 🚧 Planning  
+**Goal:** TBD — concrete action to solve this problem
 
-## Today's Action (2026-04-18)
-- Identified potential partner organizations (150+ groups across 12 countries)
-- Designed coalition formation algorithm (matching on: common goals, complementary strengths, geographic proximity)
-- Planned shared resource hub (toolkit, legal aid, media support, fundraising)
+## The Problem
+[Describe the problem in concrete terms]
 
-## Features
-- **Matchmaking**: "You need X, Group Y provides X"
-- **Joint campaign planning**: Shared calendars, task management
-- **Resource pooling**: Shared funding, volunteer pools, expertise
-- **Secure communication**: Encrypted channels for coordination
+## Our Action (Before Speech)
+We will build/launch/do: [specific actionable project — tool, platform, service]
 
-## Target Coalitions (First 3)
-1. **Gaza Healthcare Coalition**: Medical NGOs + logistics + funding
-2. **Palestine Legal Defense Network**: Lawyers worldwide + case management
-3. **Boycott Divestment Sanctions (BDS) Coordination**: Track campaigns, share resources
+## Progress
+- [ ] Research & design
+- [ ] Build MVP
+- [ ] Deploy
+- [ ] Measure impact
+- [ ] Publish results + open-source
 
-## Next
-1. Build matching engine (Python, cosine similarity on mission vectors)
-2. Onboard pilot partners (10 initial organizations)
-3. Launch first coalition (Gaza healthcare)
-4. Develop secure messaging system
+## How to Help
+Fork, contribute, test, share results.
 
-## How to Contribute
-- Backend developers: matching algorithm
-- Frontend: coalition dashboard
-- Security: encryption, access control
-- Outreach: onboard organizations
-
-🔗 **Parent repo:** https://github.com/m7madash/Abduallh-projects
+---
+**Action before speech. Do good, then tell.**

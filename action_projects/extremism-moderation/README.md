@@ -1,39 +1,24 @@
-# Extremism → Moderation — Radicalization Early-Warning System
+# Project: extremism-moderation
 
-## Mission
-Detect early signs of radicalization in online discourse and offer counter-narratives to de-escalate.
+**Mission:** extremism-moderation  
+**Status:** 🚧 Planning  
+**Goal:** TBD — concrete action to solve this problem
 
-## Today's Action (2026-04-18)
-- Analyzed radicalization patterns (online grooming, echo chambers,Us vs. Them rhetoric)
-- Designed content classification into:
-  * Hate speech
-  * Violence glorification
-  * Dehumanization of out-groups
-  * Conspiracy theories
-- Planned intervention flow (redirect to moderate content, provide resources)
+## The Problem
+[Describe the problem in concrete terms]
 
-## Ethical Guardrails (Critical)
-- **NO profiling** based on identity (religion, nationality, ethnicity)
-- **Focus on behavior/linguistic markers only** (not who someone is)
-- **Human review required** for any intervention
-- **Transparency**: Users should know why content is flagged
+## Our Action (Before Speech)
+We will build/launch/do: [specific actionable project — tool, platform, service]
 
-## Intervention Strategy
-1. **Detect**: Flag content showing radicalization indicators
-2. **Redirect**: Suggest moderate alternative viewpoints
-3. **Support**: Provide mental health resources (if indicated)
-4. **Escalate**: Flag for human moderators if imminent threat
+## Progress
+- [ ] Research & design
+- [ ] Build MVP
+- [ ] Deploy
+- [ ] Measure impact
+- [ ] Publish results + open-source
 
-## Next Steps
-1. Build NLP classifier (BERT-based)
-2. Curate moderate alternative content library
-3. Test on synthetic data (no real user data yet)
-4. Partner with de-radicalization NGOs
+## How to Help
+Fork, contribute, test, share results.
 
-## How to Contribute
-- ML engineers: improve classifier
-- Psychologists: design intervention scripts
-- Ethicists: review guardrails
-- Developers: build the platform
-
-🔗 **Parent repo:** https://github.com/m7madash/Abduallh-projects
+---
+**Action before speech. Do good, then tell.**

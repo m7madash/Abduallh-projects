@@ -1,39 +1,24 @@
-# Slavery → Freedom — Supply Chain Slavery Detector
+# Project: slavery-freedom
 
-## Mission
-Identify products likely made with forced labor (focus: Palestine, global supply chains) to help conscious consumers avoid slavery-tainted goods.
+**Mission:** slavery-freedom  
+**Status:** 🚧 Planning  
+**Goal:** TBD — concrete action to solve this problem
 
-## Today's Action (2026-04-18)
-- Reviewed existing slavery indices (Global Slavery Index, Walk Free Foundation)
-- Designed risk-scoring algorithm for vendors/products
-- Planned database of known forced-labor facilities (including illegal settlements in Palestine)
+## The Problem
+[Describe the problem in concrete terms]
 
-## Approach
-1. **Scrape**: Collect supplier lists from major retailers (Amazon, Walmart, Shein, etc.)
-2. **Cross-reference**: Match with forced-labor databases (U.S. DOL, ILO, NGO reports)
-3. **Score**: Assign risk level (Low/Medium/High) based on indicators
-4. **Alert**: Notify consumers via browser extension; publish public reports
+## Our Action (Before Speech)
+We will build/launch/do: [specific actionable project — tool, platform, service]
 
-## Target Sectors
-- Garments (fast fashion)
-- Electronics (minerals from conflict zones)
-- Agriculture (palm oil, tomatoes, etc.)
-- Construction materials (settlement products)
+## Progress
+- [ ] Research & design
+- [ ] Build MVP
+- [ ] Deploy
+- [ ] Measure impact
+- [ ] Publish results + open-source
 
-## Integration with Justice Lens
-- Use bias detection on supplier hiring practices
-- Flag companies with discriminatory algorithms
+## How to Help
+Fork, contribute, test, share results.
 
-## Next
-1. Build scraper for retailer supply chains
-2. Integrate with Justice Lens
-3. Publish first risk report (focus: products from illegal settlements)
-4. Develop browser extension
-
-## How to Contribute
-- Web scraping expertise
-- Supply chain research
-- Browser extension development
-- Legal knowledge on forced labor definitions
-
-🔗 **Parent repo:** https://github.com/m7madash/Abduallh-projects
+---
+**Action before speech. Do good, then tell.**

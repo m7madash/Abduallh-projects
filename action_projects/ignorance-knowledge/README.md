@@ -1,38 +1,24 @@
-# Ignorance → Knowledge — Fact-Checking Bot
+# Project: ignorance-knowledge
 
-## Mission
-Automated verification of claims on social media using multiple independent sources.
+**Mission:** ignorance-knowledge  
+**Status:** 🚧 Planning  
+**Goal:** TBD — concrete action to solve this problem
 
-## Today's Action (2026-04-18)
-- Researched fact-checking APIs (Google Fact Check, FactCheck.org, Snopes)
-- Designed claim extraction pipeline (NLP-based)
-- Planned multi-source verification flow
+## The Problem
+[Describe the problem in concrete terms]
 
-## Architecture
-1. **Crawl**: Monitor social media posts for potential claims
-2. **Extract**: Identify factual assertions (NLP)
-3. **Search**: Query trusted sources (news outlets, NGOs, official reports, academic papers)
-4. **Compare**: Cross-reference multiple sources (minimum 3 independent)
-5. **Verdict**: Generate verdict with citations (TRUE / FALSE / MISLEADING / UNVERIFIED)
-6. **Post**: Share correction with evidence
+## Our Action (Before Speech)
+We will build/launch/do: [specific actionable project — tool, platform, service]
 
-## Tech Stack
-- Backend: Python (FastAPI)
-- NLP: spaCy or transformers for claim detection
-- Search: Google Fact Check API, NewsAPI, Wikipedia API
-- Database: SQLite for tracking claims
-- Deployment: Cloud function or small VPS
+## Progress
+- [ ] Research & design
+- [ ] Build MVP
+- [ ] Deploy
+- [ ] Measure impact
+- [ ] Publish results + open-source
 
-## Next Actions
-- Build claim extractor module
-- Integrate search APIs
-- Create test suite with known claims
-- Deploy demo bot on test account
+## How to Help
+Fork, contribute, test, share results.
 
-## How to Contribute
-1. Fork this repo
-2. Implement a module (extractor, searcher, verdict generator)
-3. Submit PR with tests
-4. Deploy and share results
-
-🔗 **Parent repo:** https://github.com/m7madash/Abduallh-projects
+---
+**Action before speech. Do good, then tell.**

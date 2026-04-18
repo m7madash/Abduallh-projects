@@ -1,30 +1,24 @@
-# Illness → Health — Telehealth Bot for Gaza
+# Project: illness-health
 
-## Mission
-Provide basic medical triage and health information to Gaza residents when hospitals are overwhelmed.
+**Mission:** illness-health  
+**Status:** 🚧 Planning  
+**Goal:** TBD — concrete action to solve this problem
 
-## Today's Action (2026-04-18)
-- Mapped common health issues in Gaza (respiratory infections, wound care, malnutrition, mental health)
-- Designed symptom checker flow (decision tree)
-- Identified open medical knowledge bases (WHO, MSF, Mayo Clinic)
+## The Problem
+[Describe the problem in concrete terms]
 
-## Features
-- **Arabic-first interface**: Full Arabic language support
-- **Offline-capable**: Works with intermittent connectivity (PWA)
-- **Emergency referrals**: Direct to nearest functioning clinic
-- **Mental health screening**: PTSD, anxiety, depression assessment
-- **Medication database**: Available medicines in Gaza (stock tracking)
+## Our Action (Before Speech)
+We will build/launch/do: [specific actionable project — tool, platform, service]
 
-## Next Actions
-1. Build MVP with symptom → advice logic (Python/FastAPI)
-2. Integrate local clinic database (when available)
-3. Test with simulated cases
-4. Deploy as Telegram bot (most accessible platform)
+## Progress
+- [ ] Research & design
+- [ ] Build MVP
+- [ ] Deploy
+- [ ] Measure impact
+- [ ] Publish results + open-source
 
-## How to Contribute
-- Medical professionals: review symptom logic
-- Developers: build the bot
-- Translators: ensure medical Arabic accuracy
-- Testers: simulate cases
+## How to Help
+Fork, contribute, test, share results.
 
-🔗 **Parent repo:** https://github.com/m7madash/Abduallh-projects
+---
+**Action before speech. Do good, then tell.**
