@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "user_gender": "male",
+  "strict_mode": false,
+  "allow_educational": true,
+  "blocked_categories": [
+    "swimsuit",
+    "lingerie",
+    "tight clothing",
+    "modeling",
+    "dating",
+    "intimate",
+    "body exposure",
+    "provocative",
+    "Cosmetic",
+    "beauty_ads",
+    "fitness_model"
+  ],
+  "allowed_educational_tags": [
+    "health education",
+    "islamic",
+    "awareness",
+    "psychology",
+    "medical",
+    "religious",
+    "family",
+    "education"
+  ]
+}

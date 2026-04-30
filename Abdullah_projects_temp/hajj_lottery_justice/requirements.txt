@@ -1,0 +1,3 @@
+# Hajj Lottery Justice — Python requirements
+# No external packages needed (standard library only)
+# Optional: pandas, numpy if scaling to large datasets

@@ -1,0 +1,76 @@
+{
+  "weights": {
+    "taqwa_primary": 70,
+    "need_factors": 30
+  },
+  "taqwa_metrics": {
+    "fasting_consistency": 25,
+    "prayer_regularity": 25,
+    "quran_recitation": 20,
+    "charity_giving": 20,
+    "community_service": 10
+  },
+  "need_factors": {
+    "income": 10,
+    "age": 5,
+    "health": 10,
+    "hajj_novelty": 5
+  },
+  "thresholds": {
+    "taqwa_levels": {
+      "high": {"min": 80, "description": "ملتزم جدا"},
+      "medium": {"min": 50, "description": "ملتزم بشكل متوسط"},
+      "low": {"min": 0, "description": "ضعيف الالتزام"}
+    },
+    "income_levels": {
+      "low": {"max": 20000, "points": 10},
+      "medium": {"max": 50000, "points": 5},
+      "high": {"max": 999999999, "points": 0}
+    },
+    "age_groups": {
+      "elderly": {"min": 60, "points": 5},
+      "middle": {"min": 40, "points": 2},
+      "young": {"min": 18, "points": 0}
+    },
+    "health_conditions": {
+      "chronic": {"points": 10},
+      "disability": {"points": 10},
+      "none": {"points": 0}
+    },
+    "hajj_novelty": {
+      "first_time": {"points": 5},
+      "once_before": {"points": 2},
+      "multiple": {"points": 0}
+    },
+    "taqwa_indicators": {
+      "fasting": {
+        "consistent": 25,
+        "most_of_time": 15,
+        "occasional": 5,
+        "rare": 0
+      },
+      "prayer": {
+        "5_prayers": 25,
+        "3_prayers": 15,
+        "1_prayer": 5,
+        "none": 0
+      },
+      "quran": {
+        "daily": 20,
+        "weekly": 10,
+        "monthly": 5,
+        "rare": 0
+      },
+      "charity": {
+        "regular": 20,
+        "occasional": 10,
+        "rare": 0
+      },
+      "community": {
+        "active": 10,
+        "sometimes": 5,
+        "inactive": 0
+      }
+    }
+  }
+}
